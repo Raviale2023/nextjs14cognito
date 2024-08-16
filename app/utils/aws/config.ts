@@ -3,8 +3,8 @@ import { ResourcesConfig } from "aws-amplify";
 const amplifyConfig: ResourcesConfig = {
     Auth: {
       Cognito: {
-        userPoolClientId: '358bfgi6ffmblbitgs6a0ooi1m',
-        userPoolId: 'us-east-1_0IZsUv8HN',
+        userPoolClientId: '093ee488-2061-7048-2c47-2880f3cdc94f',
+        userPoolId: 'ap-southeast-2_AfYOll4sa',
         }
       }
     }
